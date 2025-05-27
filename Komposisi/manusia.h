@@ -1,5 +1,7 @@
 #include <iostream>
-#include manusia.h
+#include <vector>
+#include <string>
+#include "jantung.h"
 #ifndef MANUSIA_H
 #define MANUSIA_H
 using namespace std;
