@@ -1,3 +1,7 @@
+#include <iostream>
+#include <vector>
+#include "anak.h"
+#include <string>
 #ifndef IBU_H
 #define IBU_H
 

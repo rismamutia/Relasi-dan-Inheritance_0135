@@ -1,3 +1,5 @@
+#include <string>
+#include <iostream>
 #ifndef ANAK_H
 #define ANAK_H
 
